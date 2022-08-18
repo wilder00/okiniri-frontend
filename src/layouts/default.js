@@ -1,4 +1,4 @@
-import HeaderApp from "../components/forLayout/header-app"
+import HeaderApp from "../components/forLayout/HeaderApp"
 
 const DefaultLayout = ({children})=>{
 

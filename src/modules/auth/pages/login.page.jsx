@@ -2,7 +2,9 @@
 const LoginPage = ()=>{
 
   return (
-    <div>LoginPage</div>
+    <main>
+      
+    </main>
   )
 
 }
